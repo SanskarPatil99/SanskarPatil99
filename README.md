@@ -23,19 +23,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Business Systems graduate with hands-on experience in software development, full-stack web technologies, Artificial Intelligence and Machine Learning.
+I'm a Computer Science and Business Systems graduate passionate about software engineering, full-stack development, and Artificial Intelligence.
 
-I enjoy developing practical applications, designing user-friendly interfaces and exploring intelligent solutions to real-world problems.
+I enjoy exploring how technology works, solving problems, and transforming ideas into practical applications. I'm particularly interested in building meaningful software solutions and understanding how intelligent technologies can make applications more useful, efficient, and accessible.
+
+Currently, I'm strengthening my full-stack development skills while exploring Python, AI engineering, and Large Language Models (LLMs). I’m curious about the intersection of software development and AI, especially building applications that integrate modern AI capabilities into real-world use cases.
 
 - 🎓 B.Tech in Computer Science & Business Systems
-- 💼 Former Web Developer Intern at Codtech IT Solutions Pvt. Ltd.
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision
-- 🌐 Exploring Full Stack & Backend Development
-- ☁️ Interested in Cloud Computing and scalable applications
-- 🎨 UI/UX Design, Wireframing & Prototyping
-- 🧠 Passionate about problem-solving and continuous learning
+- 💻 Passionate about Software Engineering & Full Stack Development
+- 🐍 Exploring Python and AI-powered application development
+- 🤖 Interested in Artificial Intelligence, Machine Learning & LLMs
+- 🌐 Learning modern frontend and backend technologies
+- 🧠 Enjoy solving problems and continuously learning new technologies
 
-**My approach:** Think creatively. Build intelligently. Keep improving.
+**My approach:** Stay curious. Build meaningful things. Keep evolving.
 
 ---
 
@@ -67,80 +68,6 @@ I enjoy developing practical applications, designing user-friendly interfaces an
 
 ---
 
-## 💼 Professional Experience
-
-### Web Developer | Codtech IT Solutions Pvt. Ltd.
-
-📍 Hyderabad, India | January – May 2026
-
-- Developed responsive web interfaces using HTML5, CSS3, JavaScript and Bootstrap.
-- Worked on UI/UX design, wireframing and interface prototyping.
-- Participated in user research and usability testing.
-- Collaborated with software developers throughout the interface development process.
-- Focused on responsive layouts, accessibility considerations and user experience.
-
----
-
-## 🚀 Featured Projects
-
-### 🌱 AgriVision – AI-Powered Vegetable Disease Detection
-
-**Bachelor's Final-Year Project | November 2025 – May 2026**
-
-An AI-powered mobile application designed to detect vegetable diseases using Deep Learning and Computer Vision.
-
-- Developed image classification functionality using CNNs.
-- Applied TensorFlow and OpenCV for image analysis.
-- Integrated a Flutter mobile interface with a Python Flask backend.
-- Connected machine learning functionality with a practical agricultural application.
-
-**Tech:** Python · TensorFlow · OpenCV · CNN · Flutter · Flask
-
-### 🎓 EduTrack – Classroom & Student Management Portal
-
-A backend-focused application for managing student records and classroom operations.
-
-- Developed RESTful CRUD APIs.
-- Integrated MongoDB for database management.
-- Built modular backend services using Spring Boot.
-- Focused on maintainability and scalability.
-
-**Tech:** Java · Spring Boot · MongoDB · REST APIs
-
-### 🗂️ Duplicate File Cleaner & Log Automation
-
-A Python automation utility designed to identify duplicate files and maintain operation logs.
-
-- Detects duplicate files using hashing.
-- Automates periodic directory scanning.
-- Generates timestamp-based operation logs.
-- Shares logs through email automation.
-
-**Tech:** Python · OS Module · Hashlib · Schedule · smtplib
-
-### 🔐 File Packer & Unpacker with Encryption
-
-A Java-based application for secure file archiving and extraction.
-
-- Implemented file encryption functionality.
-- Preserved file metadata.
-- Designed a graphical interface using Java Swing.
-
-**Tech:** Java · Cryptography · Swing
-
-### 🏢 Placement Management System
-
-A database-driven web application for managing university placement processes.
-
-- Implemented student eligibility filtering.
-- Developed database-driven functionality.
-- Integrated frontend and backend components.
-- Applied relational database design principles.
-
-**Tech:** PHP · MySQL · HTML · CSS · JavaScript
-
----
-
 ## 🎓 Education
 
 **Bachelor of Technology – Computer Science & Business Systems**
@@ -154,15 +81,6 @@ Affiliated with Shivaji University, Kolhapur, India
 | Classification | First Class with Distinction (A+) |
 | German Grade | 2.2 (uni-assist VPD) |
 | Graduation | June 2026 |
-
----
-
-## 🏆 Leadership & Activities
-
-- 🎨 **Graphics Design Director** – Rotaract Club, Kolhapur (2024–2025)
-- 📱 **Social Media Head** – CABSSA Student Association, Kolhapur (2023–2025)
-
-Combining creative thinking, visual communication, teamwork and technical problem-solving.
 
 ---
 
