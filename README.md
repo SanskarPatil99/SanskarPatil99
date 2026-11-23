@@ -10,11 +10,11 @@
 
 <br/>
 
-<a href="https://github.com/sanskarpatil99">
-<img src="https://komarev.com/ghpvc/?username=sanskarpatil99&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<a href="https://github.com/SanskarPatil99">
+<img src="https://komarev.com/ghpvc/?username=SanskarPatil99&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 </a>
-<a href="https://github.com/sanskarpatil99?tab=followers">
-<img src="https://img.shields.io/github/followers/sanskarpatil99?style=for-the-badge&color=161B22&label=FOLLOWERS"/>
+<a href="https://github.com/SanskarPatil99?tab=followers">
+<img src="https://img.shields.io/github/followers/SanskarPatil99?style=for-the-badge&color=161B22&label=FOLLOWERS"/>
 </a>
 
 </div>
@@ -27,7 +27,7 @@ I'm a Computer Science and Business Systems graduate passionate about software e
 
 I enjoy exploring how technology works, solving problems, and transforming ideas into practical applications. I'm particularly interested in building meaningful software solutions and understanding how intelligent technologies can make applications more useful, efficient, and accessible.
 
-Currently, I'm strengthening my full-stack development skills while exploring Python, AI engineering, and Large Language Models (LLMs). I’m curious about the intersection of software development and AI, especially building applications that integrate modern AI capabilities into real-world use cases.
+Currently, I'm strengthening my full-stack development skills while exploring Python, AI engineering, and Large Language Models (LLMs). I'm curious about the intersection of software development and AI, especially building applications that integrate modern AI capabilities into real-world use cases.
 
 - 🎓 B.Tech in Computer Science & Business Systems
 - 💻 Passionate about Software Engineering & Full Stack Development
@@ -88,39 +88,45 @@ Affiliated with Shivaji University, Kolhapur, India
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanskarpatil99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanskarPatil99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarpatil99&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarPatil99&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sanskarpatil99&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=SanskarPatil99&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+<!--
 ## 🐍 Contribution Activity
 
+Enable this only after adding the Platane/snk GitHub Action to this repo.
+It creates the "output" branch that the image below reads from.
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sanskarpatil99/sanskarpatil99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
+<img src="https://raw.githubusercontent.com/SanskarPatil99/SanskarPatil99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
+-->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/sanskarpatil99">
+<a href="https://github.com/SanskarPatil99">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<!--
+Add your LinkedIn badge by replacing YOUR_LINKEDIN_USERNAME, then remove these comment markers:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+-->
 
 <a href="mailto:sanskarpatil234@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
